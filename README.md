@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ShemaTZ
-- 👀 I’m interested in programming,football and games
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on any of your projects
-- 📫 How to reach me just send me a message on instagram "siket_tz"
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to eat sponge's when I was a kid 
+## 👋 Hello! I'm Siket Terefe
+
+I'm a passionate learner from Ethiopia with a deep interest in **programming** and **video games**. I believe technology is a powerful tool for creativity, storytelling, and positive change — and I'm excited to grow as a developer every day.
+
+### 🚀 What I'm Up To
+- 🌱 Learning full-stack web development and mobile app development
+- 💻 Building personal and collaborative projects to gain real-world experience
+- 🎯 Focused on creating engaging, meaningful digital experiences that reflect purpose and values
+
+### 🧠 A Little About Me
+- I have **ADHD** and **Low Latent Inhibition (LLI)** — which means I process a lot at once. It can be overwhelming, but it also gives me a creative edge and deep attention to detail.
+- I'm a bit of an **extrovert** — I enjoy connecting with new people's, sharing ideas, and working with others.
+- My **faith** is central to my life. I'm especially passionate about building tools like website's annd apps that share truth and inspire others through the Bible.
+
+### 🤝 Let's Connect!
+I'm open to collaborating on impactful projects — especially ones related to **education** or **faith-based content**.
+
+- 📬 DM me on Instagram: [@siket_tz](https://instagram.com/siket_tz)
+- 🧠 Always learning, always growing, and happy to contribute where I can
+
+---
+
+> 🙏 Driven by faith. Fueled by purpose. Focused on creating something that matters.
+
+
 
 <!---
 ShemaTZ/ShemaTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
