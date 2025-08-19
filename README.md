@@ -8,7 +8,6 @@ I'm a passionate learner from Ethiopia with a deep interest in **programming** a
 - 🎯 Focused on creating engaging, meaningful digital experiences that reflect purpose and values
 
 ### 🧠 A Little About Me
-- I have **ADHD** and **Low Latent Inhibition (LLI)** — which means I process a lot at once. It can be overwhelming, but it also gives me a creative edge and strong attention to detail.
 - I'm a bit of an **extrovert** — I enjoy connecting with new people, sharing ideas, and working with others.
 - My **faith** is central to my life. I'm especially passionate about building tools like websites and apps that share truth and inspire others through the Bible.
 
